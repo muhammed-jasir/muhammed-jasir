@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here’s a well-rounded and customizable About Me section for your GitHub profile README:<br><br><br>---<br><br>👋 About Me<br><br>Hi, I'm Muhammed Jasir!<br><br>🎓 Passionate developer with a love for building creative and impactful applications.<br><br>🌐 Working with MERN stack (MongoDB, Express, React, Node.js) and exploring new technologies.<br><br>💻 Also experienced with Firebase, Redux, Tailwind CSS, and Context API for dynamic, scalable projects.<br><br><br><br>
+<br><br>Hi, I'm Muhammed Jasir!<br><br>🎓 Passionate developer with a love for building creative and impactful applications.<br><br>🌐 Working with MERN stack (MongoDB, Express, React, Node.js) and exploring new technologies.<br><br>💻 Also experienced with Firebase, Redux, Tailwind CSS, and Context API for dynamic, scalable projects.<br><br><br>
 
 
 ## 🌐 Socials:
