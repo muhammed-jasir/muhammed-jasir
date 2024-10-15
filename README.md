@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I'm Muhammed Jasir!<br><br>🎓 Passionate developer with a love for building creative and impactful applications.<br><br>🌐 Working with MERN stack (MongoDB, Express, React, Node.js) and exploring new technologies.<br><br>💻 Also experienced with Firebase, Redux, Tailwind CSS, and Context API for dynamic, scalable projects.<br><br><br>
+Hi, I'm Muhammed Jasir!<br><br>🎓 Passionate developer with a love for building creative and impactful applications.<br><br>🌐 Working with MERN stack (MongoDB, Express, React, Node.js) and exploring new technologies.<br><br>💻 Also experienced with Firebase, Redux, Tailwind CSS, and Context API for dynamic, scalable projects.<br>
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammed-jasir&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
